@@ -1,0 +1,26 @@
+{
+  "_instructions": "Site-wide configuration and meta tags.",
+  "title": "Manish Raghunathareddy | Professional Developer",
+  "description": "Manish Raghunathareddy - Professional Developer | Portfolio",
+  "keywords": "Professional Developer, Portfolio, Manish Raghunathareddy",
+  "author": "Manish Raghunathareddy",
+  "siteName": "Manish Raghunathareddy",
+  "siteTitle": "Manish Raghunathareddy | Professional Developer",
+  "meta": {
+    "title": "Manish Raghunathareddy | Professional Developer",
+    "description": "Manish Raghunathareddy - Professional Developer | Portfolio",
+    "author": "Manish Raghunathareddy",
+    "keywords": "Professional Developer, Portfolio, Manish Raghunathareddy"
+  },
+  "branding": {
+    "name": "Manish Raghunathareddy",
+    "tagline": "Professional Developer",
+    "logo": "/logo.png"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "enableParticles": true,
+    "navbarScrollEffect": true
+  }
+}

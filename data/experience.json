@@ -1,0 +1,40 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Data Engineer",
+      "company": "Huawei Technologies India - Contract",
+      "period": "Oct. 2020- Jan. 2023",
+      "location": "",
+      "description": "• Designed and implemented an event-driven ETL pipeline using AWS services (S3, Lambda, Glue, Redshift, Step\nFunctions) to automate ingestion and transformation of CSV data into Amazon Redshift.\n• Developed Lambda functions to trigger Step Functions upon file uploads to S3, enabling real-time orchestration of\nGlue Crawlers, ETL Jobs, and Redshift load operations.\n• Built scalable Glue jobs in PySpark to validate, clean, and transform raw CSV data before loading it into Redshift\nstaging and production tables.\n• Used AWS Step Functions to coordinate multi-step workflows with failure handling, retries, and success\nnotifications across ETL stages.\n• Implemented monitoring and alerting using AWS CloudWatch Logs, Metrics, and Alarms to ensure pipeline\nobservability and reduce downtime.\n• Achieved near real-time data availability in Redshift with automatic ETL triggers, improving reporting latency by\n60% for analytics stakeholders.",
+      "responsibilities": [
+        "• Designed and implemented an event-driven ETL pipeline using AWS services (S3, Lambda, Glue, Redshift, Step",
+        "Functions) to automate ingestion and transformation of CSV data into Amazon Redshift",
+        "• Developed Lambda functions to trigger Step Functions upon file uploads to S3, enabling real-time orchestration of",
+        "Glue Crawlers, ETL Jobs, and Redshift load operations",
+        "• Built scalable Glue jobs in PySpark to validate, clean, and transform raw CSV data before loading it into Redshift",
+        "staging and production tables",
+        "• Used AWS Step Functions to coordinate multi-step workflows with failure handling, retries, and success",
+        "notifications across ETL stages",
+        "• Implemented monitoring and alerting using AWS CloudWatch Logs, Metrics, and Alarms to ensure pipeline",
+        "observability and reduce downtime",
+        "• Achieved near real-time data availability in Redshift with automatic ETL triggers, improving reporting latency by",
+        "60% for analytics stakeholders"
+      ]
+    },
+    {
+      "title": "Data Engineering Intern",
+      "company": "Mobiikey",
+      "period": "Jun. 2019 Sep. 2019",
+      "location": "",
+      "description": "• Developed a Python-based system to log real-time voltage data from an automotive protective circuit.\n• Monitored voltage fluctuations to detect ignition surges and jump-start anomalies.\n• Visualized voltage trends and system behavior over time with Matplotlib for performance tracking.\n• Gained hands-on experience with real-time data logging, signal processing, and automotive circuit analysis.",
+      "responsibilities": [
+        "• Developed a Python-based system to log real-time voltage data from an automotive protective circuit",
+        "• Monitored voltage fluctuations to detect ignition surges and jump-start anomalies",
+        "• Visualized voltage trends and system behavior over time with Matplotlib for performance tracking",
+        "• Gained hands-on experience with real-time data logging, signal processing, and automotive circuit analysis"
+      ]
+    }
+  ]
+}

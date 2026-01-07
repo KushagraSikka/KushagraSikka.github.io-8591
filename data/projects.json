@@ -1,0 +1,619 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "projects": [
+    {
+      "title": "Fraud Detection System",
+      "description": "• Developed a fraud detection model using Random Forest and Logistic Regression to identify fraudulent transactions\nin financial datasets.\n• Preprocessed and cleaned data using Pandas and NumPy, handling missing values and performing feature\nengineering.\n• Evaluated the model's performance with metrics such as confusion matrix, ROC curve, and accuracy.",
+      "longDescription": "• Developed a fraud detection model using Random Forest and Logistic Regression to identify fraudulent transactions\nin financial datasets.\n• Preprocessed and cleaned data using Pandas and NumPy, handling missing values and performing feature\nengineering.\n• Evaluated the model's performance with metrics such as confusion matrix, ROC curve, and accuracy.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": true,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Recommender System",
+      "description": "• Built a content-based recommender system for movie recommendations using TF-IDF vectorization and Cosine\nSimilarity for content matching.\n• Implemented collaborative filtering for product recommendations using user-item interaction matrices.\n• Evaluated recommendation quality using precision, recall, and F1-score metrics with Scikit-learn.",
+      "longDescription": "• Built a content-based recommender system for movie recommendations using TF-IDF vectorization and Cosine\nSimilarity for content matching.\n• Implemented collaborative filtering for product recommendations using user-item interaction matrices.\n• Evaluated recommendation quality using precision, recall, and F1-score metrics with Scikit-learn.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "NumPy",
+        "Matplotlib",
+        "Git"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Stock Price Prediction",
+      "description": "• Developed a time-series forecasting model for stock price prediction using LSTM (Long Short-Term Memory)\nmodels.\n• Processed and cleaned historical stock data using Pandas, NumPy, and Matplotlib.\n• Implemented hyperparameter tuning for model optimization and predicted stock prices with TensorFlow.",
+      "longDescription": "• Developed a time-series forecasting model for stock price prediction using LSTM (Long Short-Term Memory)\nmodels.\n• Processed and cleaned historical stock data using Pandas, NumPy, and Matplotlib.\n• Implemented hyperparameter tuning for model optimization and predicted stock prices with TensorFlow.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "",
+      "demo": "",
+      "links": {
+        "github": "",
+        "demo": "",
+        "live": ""
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "RAG_Microservice-",
+      "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+      "longDescription": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Dockerfile",
+        "Shell"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/RAG_Microservice-",
+      "demo": "https://github.com/KushagraSikka/RAG_Microservice-",
+      "links": {
+        "github": "https://github.com/KushagraSikka/RAG_Microservice-",
+        "demo": "https://github.com/KushagraSikka/RAG_Microservice-",
+        "live": "https://github.com/KushagraSikka/RAG_Microservice-"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "comprehensive-mcp-guide",
+      "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+      "longDescription": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+      "category": "Software Development",
+      "technologies": [
+        "JavaScript"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+      "demo": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+      "links": {
+        "github": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+        "demo": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+        "live": "https://github.com/KushagraSikka/comprehensive-mcp-guide"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Gator_taxi_Advanced_data_struc",
+      "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+      "longDescription": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Makefile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+      "demo": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+      "links": {
+        "github": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+        "demo": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+        "live": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "bank-app-spring-cloud-microservices",
+      "description": "Practice repository for exploring advanced features",
+      "longDescription": "Practice repository for exploring advanced features",
+      "category": "Software Development",
+      "technologies": [
+        "Java"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+      "demo": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+      "links": {
+        "github": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+        "demo": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+        "live": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "minikeyvalue",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "Go",
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/minikeyvalue",
+      "demo": "https://github.com/KushagraSikka/minikeyvalue",
+      "links": {
+        "github": "https://github.com/KushagraSikka/minikeyvalue",
+        "demo": "https://github.com/KushagraSikka/minikeyvalue",
+        "live": "https://github.com/KushagraSikka/minikeyvalue"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "portfolio",
+      "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+      "longDescription": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Shell",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/portfolio",
+      "demo": "https://github.com/KushagraSikka/portfolio",
+      "links": {
+        "github": "https://github.com/KushagraSikka/portfolio",
+        "demo": "https://github.com/KushagraSikka/portfolio",
+        "live": "https://github.com/KushagraSikka/portfolio"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "NeuraScribeX",
+      "description": "NeuraScribe Inc Portfolio - Apple-style design showcasing neurascribe, f1jobs.io, and llm.blog",
+      "longDescription": "NeuraScribe Inc Portfolio - Apple-style design showcasing neurascribe, f1jobs.io, and llm.blog",
+      "category": "Data Science",
+      "technologies": [
+        "TypeScript",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/NeuraScribeX",
+      "demo": "https://github.com/KushagraSikka/NeuraScribeX",
+      "links": {
+        "github": "https://github.com/KushagraSikka/NeuraScribeX",
+        "demo": "https://github.com/KushagraSikka/NeuraScribeX",
+        "live": "https://github.com/KushagraSikka/NeuraScribeX"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "KushagraSikka.github.io-4686",
+      "description": "Professional portfolio for KushagraSikka",
+      "longDescription": "Professional portfolio for KushagraSikka",
+      "category": "Data Science",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/KushagraSikka.github.io-4686",
+      "demo": "https://github.com/KushagraSikka/KushagraSikka.github.io-4686",
+      "links": {
+        "github": "https://github.com/KushagraSikka/KushagraSikka.github.io-4686",
+        "demo": "https://github.com/KushagraSikka/KushagraSikka.github.io-4686",
+        "live": "https://github.com/KushagraSikka/KushagraSikka.github.io-4686"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "python-for-automating-information-security",
+      "description": "Hands-on learning experience with modern frameworks",
+      "longDescription": "Hands-on learning experience with modern frameworks",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/python-for-automating-information-security",
+      "demo": "https://github.com/KushagraSikka/python-for-automating-information-security",
+      "links": {
+        "github": "https://github.com/KushagraSikka/python-for-automating-information-security",
+        "demo": "https://github.com/KushagraSikka/python-for-automating-information-security",
+        "live": "https://github.com/KushagraSikka/python-for-automating-information-security"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "symptom-checker-chatbot",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "HTML",
+        "Python",
+        "JavaScript",
+        "CSS"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+      "demo": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+      "links": {
+        "github": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+        "demo": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+        "live": "https://github.com/KushagraSikka/symptom-checker-chatbot"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "about-section-fix-test",
+      "description": "Professional portfolio for KushagraSikka",
+      "longDescription": "Professional portfolio for KushagraSikka",
+      "category": "Data Science",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/about-section-fix-test",
+      "demo": "https://github.com/KushagraSikka/about-section-fix-test",
+      "links": {
+        "github": "https://github.com/KushagraSikka/about-section-fix-test",
+        "demo": "https://github.com/KushagraSikka/about-section-fix-test",
+        "live": "https://github.com/KushagraSikka/about-section-fix-test"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "sentiment-analysis-webapp-sagemaker",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+      "demo": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+      "links": {
+        "github": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+        "demo": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+        "live": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "itinerary-planner",
+      "description": "Personal development project using industry best practices",
+      "longDescription": "Personal development project using industry best practices",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "CSS",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/itinerary-planner",
+      "demo": "https://github.com/KushagraSikka/itinerary-planner",
+      "links": {
+        "github": "https://github.com/KushagraSikka/itinerary-planner",
+        "demo": "https://github.com/KushagraSikka/itinerary-planner",
+        "live": "https://github.com/KushagraSikka/itinerary-planner"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "patient-appointment-system",
+      "description": "Hands-on learning experience with modern frameworks",
+      "longDescription": "Hands-on learning experience with modern frameworks",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/patient-appointment-system",
+      "demo": "https://github.com/KushagraSikka/patient-appointment-system",
+      "links": {
+        "github": "https://github.com/KushagraSikka/patient-appointment-system",
+        "demo": "https://github.com/KushagraSikka/patient-appointment-system",
+        "live": "https://github.com/KushagraSikka/patient-appointment-system"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "gatordwelling2",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Python"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF8B94",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/gatordwelling2",
+      "demo": "https://github.com/KushagraSikka/gatordwelling2",
+      "links": {
+        "github": "https://github.com/KushagraSikka/gatordwelling2",
+        "demo": "https://github.com/KushagraSikka/gatordwelling2",
+        "live": "https://github.com/KushagraSikka/gatordwelling2"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "brain-mapping-eeg-classification",
+      "description": "Brain Mapping using EEG Signal Classification - A 2013-era implementation using 2D DWT and pattern matching for normal/abnormal EEG classification",
+      "longDescription": "Brain Mapping using EEG Signal Classification - A 2013-era implementation using 2D DWT and pattern matching for normal/abnormal EEG classification",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Shell",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FF6B6B",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/brain-mapping-eeg-classification",
+      "demo": "https://github.com/KushagraSikka/brain-mapping-eeg-classification",
+      "links": {
+        "github": "https://github.com/KushagraSikka/brain-mapping-eeg-classification",
+        "demo": "https://github.com/KushagraSikka/brain-mapping-eeg-classification",
+        "live": "https://github.com/KushagraSikka/brain-mapping-eeg-classification"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "devconnector_2-0",
+      "description": "Practice repository for exploring advanced features",
+      "longDescription": "Practice repository for exploring advanced features",
+      "category": "Data Science",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#4ECDC4",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/devconnector_2-0",
+      "demo": "https://github.com/KushagraSikka/devconnector_2-0",
+      "links": {
+        "github": "https://github.com/KushagraSikka/devconnector_2-0",
+        "demo": "https://github.com/KushagraSikka/devconnector_2-0",
+        "live": "https://github.com/KushagraSikka/devconnector_2-0"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "ecommerce-spring-reactjs-1755869650706",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Data Science",
+      "technologies": [
+        "Java",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "SCSS",
+        "JavaScript"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#FFE66D",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/ecommerce-spring-reactjs-1755869650706",
+      "demo": "https://github.com/KushagraSikka/ecommerce-spring-reactjs-1755869650706",
+      "links": {
+        "github": "https://github.com/KushagraSikka/ecommerce-spring-reactjs-1755869650706",
+        "demo": "https://github.com/KushagraSikka/ecommerce-spring-reactjs-1755869650706",
+        "live": "https://github.com/KushagraSikka/ecommerce-spring-reactjs-1755869650706"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "Supply-Chain-Dashboard-1755869616282",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/Supply-Chain-Dashboard-1755869616282",
+      "demo": "https://github.com/KushagraSikka/Supply-Chain-Dashboard-1755869616282",
+      "links": {
+        "github": "https://github.com/KushagraSikka/Supply-Chain-Dashboard-1755869616282",
+        "demo": "https://github.com/KushagraSikka/Supply-Chain-Dashboard-1755869616282",
+        "live": "https://github.com/KushagraSikka/Supply-Chain-Dashboard-1755869616282"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "coding-exercise",
+      "description": "Interactive web interface built with JavaScript",
+      "longDescription": "Interactive web interface built with JavaScript",
+      "category": "Backend Development",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Python"
+      ],
+      "icon": "fas fa-brain",
+      "color": "#B19CD9",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&q=80&fit=crop",
+      "featured": false,
+      "github": "https://github.com/KushagraSikka/coding-exercise",
+      "demo": "https://github.com/KushagraSikka/coding-exercise",
+      "links": {
+        "github": "https://github.com/KushagraSikka/coding-exercise",
+        "demo": "https://github.com/KushagraSikka/coding-exercise",
+        "live": "https://github.com/KushagraSikka/coding-exercise"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}
